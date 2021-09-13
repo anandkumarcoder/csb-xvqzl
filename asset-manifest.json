@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anandkumarcoder.github.io/csb-xvqzl/static/css/main.fb8e2636.chunk.css",
+    "main.js": "https://anandkumarcoder.github.io/csb-xvqzl/static/js/main.105f02f6.chunk.js",
+    "main.js.map": "https://anandkumarcoder.github.io/csb-xvqzl/static/js/main.105f02f6.chunk.js.map",
+    "runtime-main.js": "https://anandkumarcoder.github.io/csb-xvqzl/static/js/runtime-main.ef5953fe.js",
+    "runtime-main.js.map": "https://anandkumarcoder.github.io/csb-xvqzl/static/js/runtime-main.ef5953fe.js.map",
+    "static/js/2.25ad55d2.chunk.js": "https://anandkumarcoder.github.io/csb-xvqzl/static/js/2.25ad55d2.chunk.js",
+    "static/js/2.25ad55d2.chunk.js.map": "https://anandkumarcoder.github.io/csb-xvqzl/static/js/2.25ad55d2.chunk.js.map",
+    "index.html": "https://anandkumarcoder.github.io/csb-xvqzl/index.html",
+    "static/css/main.fb8e2636.chunk.css.map": "https://anandkumarcoder.github.io/csb-xvqzl/static/css/main.fb8e2636.chunk.css.map",
+    "static/js/2.25ad55d2.chunk.js.LICENSE.txt": "https://anandkumarcoder.github.io/csb-xvqzl/static/js/2.25ad55d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5953fe.js",
+    "static/js/2.25ad55d2.chunk.js",
+    "static/css/main.fb8e2636.chunk.css",
+    "static/js/main.105f02f6.chunk.js"
+  ]
+}
